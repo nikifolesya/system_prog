@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/nikiforova.olesya/Desktop/system_prog/output/3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9armstrongi, symObjAddr: 0x0, symBinAddr: 0x100003C50, symSize: 0xB0 }
+  - { offsetInCU: 0x4612, offset: 0x4612, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160002IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x190, symBinAddr: 0x100003DE0, symSize: 0x50 }
+  - { offsetInCU: 0x4652, offset: 0x4652, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160002INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x270, symBinAddr: 0x100003EC0, symSize: 0x30 }
+  - { offsetInCU: 0x4DE8, offset: 0x4DE8, size: 0x8, addend: 0x0, symName: __Z3powB7v160002IiiENSt3__19enable_ifIXaasr3std13is_arithmeticIT_EE5valuesr3std13is_arithmeticIT0_EE5valueENS0_9__promoteIS2_S3_vEEE4type4typeES2_S3_, symObjAddr: 0xB0, symBinAddr: 0x100003D00, symSize: 0x30 }
+  - { offsetInCU: 0x6F88, offset: 0x6F88, size: 0x8, addend: 0x0, symName: __Z9armstrongi, symObjAddr: 0x0, symBinAddr: 0x100003C50, symSize: 0xB0 }
+  - { offsetInCU: 0x7008, offset: 0x7008, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xE0, symBinAddr: 0x100003D30, symSize: 0x90 }
+  - { offsetInCU: 0x70EB, offset: 0x70EB, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160002EPFRS3_S4_E, symObjAddr: 0x170, symBinAddr: 0x100003DC0, symSize: 0x20 }
+  - { offsetInCU: 0x711D, offset: 0x711D, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160002Ec, symObjAddr: 0x1E0, symBinAddr: 0x100003E30, symSize: 0x90 }
+  - { offsetInCU: 0x7189, offset: 0x7189, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160002Ec, symObjAddr: 0x2A0, symBinAddr: 0x100003EF0, symSize: 0x30 }
+...

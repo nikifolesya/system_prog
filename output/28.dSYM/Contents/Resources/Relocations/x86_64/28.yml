@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/nikiforova.olesya/Desktop/system_prog/output/28'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9fibonaccii, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x150 }
+  - { offsetInCU: 0x4463, offset: 0x4463, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160002IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x170, symBinAddr: 0x100003DB0, symSize: 0x50 }
+  - { offsetInCU: 0x44A3, offset: 0x44A3, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160002INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x280, symBinAddr: 0x100003EC0, symSize: 0x30 }
+  - { offsetInCU: 0x6D5E, offset: 0x6D5E, size: 0x8, addend: 0x0, symName: __Z9fibonaccii, symObjAddr: 0x0, symBinAddr: 0x100003C40, symSize: 0x150 }
+  - { offsetInCU: 0x6EBD, offset: 0x6EBD, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160002EPFRS3_S4_E, symObjAddr: 0x150, symBinAddr: 0x100003D90, symSize: 0x20 }
+  - { offsetInCU: 0x6EEF, offset: 0x6EEF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1C0, symBinAddr: 0x100003E00, symSize: 0x30 }
+  - { offsetInCU: 0x6F17, offset: 0x6F17, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160002Ec, symObjAddr: 0x1F0, symBinAddr: 0x100003E30, symSize: 0x90 }
+  - { offsetInCU: 0x6F83, offset: 0x6F83, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160002Ec, symObjAddr: 0x2B0, symBinAddr: 0x100003EF0, symSize: 0x30 }
+...
