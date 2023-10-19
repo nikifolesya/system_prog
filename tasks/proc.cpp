@@ -10,9 +10,8 @@ int main() {
     cin >> n;
     cout << endl;
     if(n<0) Error();
-    while(n>0){
-        cout << n%10 << endl;
-        n /=10;
+    for(int i = 1; i <= n; i++) {
+        cout << i << endl;
     }
     return 0;
 }

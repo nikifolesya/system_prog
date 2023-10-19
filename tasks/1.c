@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+Main() {
     int n;
     int summ = 0;
     scanf("%d", &n);

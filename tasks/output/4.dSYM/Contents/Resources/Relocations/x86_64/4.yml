@@ -1,0 +1,10 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/nikiforova.olesya/Desktop/system_prog/tasks/output/4'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Error, symObjAddr: 0x0, symBinAddr: 0x100003E40, symSize: 0x20 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _Error, symObjAddr: 0x0, symBinAddr: 0x100003E40, symSize: 0x20 }
+  - { offsetInCU: 0x56, offset: 0x56, size: 0x8, addend: 0x0, symName: _length, symObjAddr: 0x20, symBinAddr: 0x100003E60, symSize: 0x40 }
+  - { offsetInCU: 0x8C, offset: 0x8C, size: 0x8, addend: 0x0, symName: _powf, symObjAddr: 0x60, symBinAddr: 0x100003EA0, symSize: 0x50 }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xB0, symBinAddr: 0x100003EF0, symSize: 0xA3 }
+...
