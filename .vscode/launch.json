@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nikiforova.olesya/Desktop/system_prog/lab1",
-      "program": "/Users/nikiforova.olesya/Desktop/system_prog/lab1/build/Debug/outDebug"
+      "cwd": "/Users/nikiforova.olesya/Desktop/system_prog",
+      "program": "/Users/nikiforova.olesya/Desktop/system_prog/build/Debug/outDebug"
     }
   ]
 }

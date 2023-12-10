@@ -1,0 +1,4 @@
+test1.txt: 70 spaces
+test2.txt: 89 spaces
+test3.txt: 101 spaces
+File with max spaces: test3.txt
